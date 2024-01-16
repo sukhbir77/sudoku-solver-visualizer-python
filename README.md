@@ -1,7 +1,19 @@
-# Sudoku-GUI-Solver
-This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.
+# Sudoku Solver with Backtracking Algorithm
 
-Run GUI.py to play sudoku.
+A Sudoku solver application that uses the backtracking algorithm. This project includes both a graphical GUI and a text-based version for solving Sudoku puzzles.
 
-# Instructions
-Click a box and hit the number on your keybaord to pencil in a number. To confirm that value press the ENTER key on that box. To delete a pencil in you can click DEL. Finally to solve the board press SPACE, sit back and watch the algorithm run.
+## Overview
+
+This Sudoku Solver is designed to tackle Sudoku puzzles using the backtracking algorithm. It provides two interfaces: a graphical GUI for interactive solving and a text-based version for algorithmic demonstration.
+
+## Features
+
+- **Backtracking Algorithm:** Utilizes the backtracking algorithm to efficiently solve Sudoku puzzles.
+- **Graphical GUI:** Interactive graphical user interface for solving Sudoku puzzles visually.
+- **Text-Based Version:** A console-based version for algorithmic demonstration and solving.
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sukhbir77/Sudoku-Solver.git
