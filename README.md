@@ -16,4 +16,4 @@ This Sudoku Solver is designed to tackle Sudoku puzzles using the backtracking a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Sudoku-Solver.git
+   git clone https://github.com/sukhbir77/sudoku-solver-visualizer-python.git
